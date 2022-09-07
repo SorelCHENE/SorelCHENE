@@ -1,6 +1,5 @@
-### Hi there 👋
+BONJOUR
 
-<!--
 **SorelCHENE/SorelCHENE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 Comment me joindre, mon adresse e-mail : sorelchene@orange.fr 
 - 😄 Pronoms : Soso
 - ⚡ Fait amusant : Je suis une fille
--->
+
